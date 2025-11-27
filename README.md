@@ -20,7 +20,7 @@ This project fetches stock data, computes basic quant signals, normalizes them, 
 
 <hr>
 
-## 🚀 What This Project Does
+## What This Project Does
 
 Given a ticker:
 
@@ -39,7 +39,7 @@ The engine automatically:
 
 ---
 
-## 📊 Signals Included
+## Signals Included
 
 | Signal | Meaning |
 |--------|---------|
@@ -55,7 +55,7 @@ These are the real metrics analysts use.
 
 ---
 
-## 🧠 Why This Matters (Beginner Friendly)
+## Insparation
 
 Quant funds and research teams automate workflows like:
 
@@ -68,7 +68,7 @@ This project is a tiny version of that workflow.
 
 ---
 
-## 🏗 Folder Structure
+## Folder Structure
 
 research-automation-engine/
 │
@@ -84,7 +84,7 @@ Copy code
 
 ---
 
-## 📦 Installation
+## Installation
 
 python3 -m venv venv
 source venv/bin/activate
@@ -95,7 +95,7 @@ Copy code
 
 ---
 
-## ▶️ Run
+## Run (Examples)
 
 python research.py MSFT
 python research.py NFLX
@@ -106,7 +106,7 @@ Copy code
 
 ---
 
-## 📈 Sample Output
+## Sample Output
 
 === SIGNAL TABLE ===
 | 3M_Return_% | 7.84 | 0.75 |
@@ -122,7 +122,7 @@ Copy code
 
 ---
 
-## 🔧 How to Extend the Project
+## 🔧 To-Do List: How This Project Will Be Extended In The Future
 
 - Add PE ratio, PB, or fundamentals  
 - Add sector comparison  
@@ -134,16 +134,12 @@ Copy code
 
 ---
 
-## 📝 Notes for Recruiters
-
-This project demonstrates:
+## This project demonstrates: 
 
 - Python engineering  
 - Modularity  
 - Clean finance logic  
 - CLI interface design  
 - Research automation concepts  
-
-Perfect for someone new to quant + tech.
 
 ---
