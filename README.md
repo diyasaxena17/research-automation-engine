@@ -5,6 +5,21 @@ A beginner-friendly quant research project inspired by automated workflows used 
 This project fetches stock data, computes basic quant signals, normalizes them, and produces a clean, natural-language research summary—without any machine learning.
 
 ---
+<h2 align="center">🌐 Live Demo</h2>
+
+<p align="center">
+  <a href="https://research-automation-engine.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20App-Click%20Here-blue?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  Try the fully interactive dashboard here:<br>
+  <strong>https://research-automation-engine.streamlit.app/</strong>
+</p>
+
+<hr>
+---
 
 ## 🚀 What This Project Does
 
