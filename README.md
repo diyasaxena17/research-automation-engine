@@ -19,7 +19,6 @@ This project fetches stock data, computes basic quant signals, normalizes them, 
 </p>
 
 <hr>
----
 
 ## 🚀 What This Project Does
 
